@@ -28,7 +28,7 @@ const projects = [
     image: "/assets/images/project6.jpg",
   },
   {
-    image: "/assets/images/project7.jpg",
+    image: "/assets/images/project8.jpg",
   },
 ];
 

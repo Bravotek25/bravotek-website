@@ -44,7 +44,7 @@ const projects = [
     id: 7,
     title: "Network Cabinet Wiring (In Progress)",
     description: "Ongoing structured cabling and network switch installation for a business communications room.",
-    image: "/assets/images/project7.jpg",
+    image: "/assets/images/project3.jpg",
   },
   {
     id: 8,
