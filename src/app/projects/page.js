@@ -8,7 +8,7 @@ const projects = [
     id: 1,
     title: "Rooftop Wireless Antenna Installation",
     description: "Secure rooftop mounting of a wireless antenna system for improved site connectivity and signal coverage.",
-    image: "/assets/images/project1.jpg",
+    image: "/assets/images/project13.jpg",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const projects = [
     id: 4,
     title: "Outdoor Digital Display Enclosure",
     description: "Installation of weatherproof enclosures for outdoor digital displays, ensuring durability and performance.",
-    image: "/assets/images/project4.jpg",
+    image: "/assets/images/project20.jpg",
   },
   {
     id: 5,
@@ -80,7 +80,7 @@ const projects = [
     id: 13,
     title: "Warehouse Network Mount Prep",
     description: "Preparation of a steel column and mounting plate for secure network equipment installation in a warehouse.",
-    image: "/assets/images/project13.jpg",
+    image: "/assets/images/project1.jpg",
   },
   {
     id: 14,
@@ -122,7 +122,7 @@ const projects = [
     id: 20,
     title: "Antenna Array & Rooftop Equipment",
     description: "Rooftop antenna array and equipment for advanced wireless networking and site connectivity.",
-    image: "/assets/images/project20.jpg",
+    image: "/assets/images/project4.jpg",
   },
 ];
 
@@ -171,9 +171,8 @@ export default function ProjectsPage() {
             ))}
           </div>
           <a
-            href="https://docs.google.com/presentation/d/1SH2jgKQ2z6tbEDOu04g8owhte_0NDgsy/edit?usp=drive_link&ouid=117414951563940338546&rtpof=true&sd=true" // replace with real file ID
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/bravotek-project-photos.pdf"
+            download
             className="bg-dark-green border border-dark-green flex items-center justify-center py-3 px-6 gap-2 rounded-4xl transition-all duration-300 ease-in-out hover:bg-transparent group"
           >
             <FaCloudDownloadAlt size={24} className="text-white group-hover:text-title transition-all duration-300 ease-in-out" />

@@ -16,17 +16,17 @@ const servicesData = [
       "Provide a comprehensive report outlining recommendations.",
     ],
   },
-  {
-    id: 2,
-    title: "Cable Runs & Testing (CAT6 and higher)",
-    image: "/assets/images/cableruns.png",
-    list: [
-      "Install structured cabling (CAT6, CAT6a, CAT7).",
-      "Perform cable certification and bandwidth testing.",
-      "Ensure neat and secure cable pathways.",
-      "Label and document all terminations.",
-    ],
-  },
+  // {
+  //   id: 2,
+  //   title: "Cable Runs & Testing (CAT6 and higher)",
+  //   image: "/assets/images/cableruns.png",
+  //   list: [
+  //     "Install structured cabling (CAT6, CAT6a, CAT7).",
+  //     "Perform cable certification and bandwidth testing.",
+  //     "Ensure neat and secure cable pathways.",
+  //     "Label and document all terminations.",
+  //   ],
+  // },
   {
     id: 3,
     title: "Wireless Access Point Installations",
@@ -38,17 +38,17 @@ const servicesData = [
       "Verify performance through post-install testing.",
     ],
   },
-  {
-    id: 4,
-    title: "Fiber Cabling",
-    image: "/assets/images/fiber.png",
-    list: [
-      "Install single-mode and multi-mode fiber optic cables.",
-      "Perform splicing and termination.",
-      "Test fiber links for attenuation and loss.",
-      "Provide fiber certification documentation.",
-    ],
-  },
+  // {
+  //   id: 4,
+  //   title: "Fiber Cabling",
+  //   image: "/assets/images/fiber.png",
+  //   list: [
+  //     "Install single-mode and multi-mode fiber optic cables.",
+  //     "Perform splicing and termination.",
+  //     "Test fiber links for attenuation and loss.",
+  //     "Provide fiber certification documentation.",
+  //   ],
+  // },
   {
     id: 5,
     title: "Rack & Stack",
@@ -71,17 +71,17 @@ const servicesData = [
   //     "Improve visual presentation and accessibility.",
   //   ],
   // },
-  {
-    id: 7,
-    title: "Server Installation",
-    image: "/assets/images/serverinstall.png",
-    list: [
-      "Rack-mount physical servers securely.",
-      "Connect power, network, and management interfaces.",
-      "Install operating systems and baseline configuration.",
-      "Verify system functionality and integration.",
-    ],
-  },
+  // {
+  //   id: 7,
+  //   title: "Server Installation",
+  //   image: "/assets/images/serverinstall.png",
+  //   list: [
+  //     "Rack-mount physical servers securely.",
+  //     "Connect power, network, and management interfaces.",
+  //     "Install operating systems and baseline configuration.",
+  //     "Verify system functionality and integration.",
+  //   ],
+  // },
   {
     id: 8,
     title: "Troubleshooting & Repairs",
@@ -115,17 +115,17 @@ const servicesData = [
       "Schedule and update content remotely.",
     ],
   },
-  {
-    id: 11,
-    title: "POS (Point of Sale)",
-    image: "/assets/images/pos.png",
-    list: [
-      "Install and configure POS terminals.",
-      "Connect peripherals (printers, scanners, cash drawers).",
-      "Set up POS software and network connectivity.",
-      "Provide training for staff usage.",
-    ],
-  },
+  // {
+  //   id: 11,
+  //   title: "POS (Point of Sale)",
+  //   image: "/assets/images/pos.png",
+  //   list: [
+  //     "Install and configure POS terminals.",
+  //     "Connect peripherals (printers, scanners, cash drawers).",
+  //     "Set up POS software and network connectivity.",
+  //     "Provide training for staff usage.",
+  //   ],
+  // },
 ];
 
 const ServiceSection = () => {
