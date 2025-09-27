@@ -26,7 +26,7 @@ const servicesData = [
   //     "Ensure neat and secure cable pathways.",
   //     "Label and document all terminations.",
   //   ],
-  // },
+  // }, 
   {
     id: 3,
     title: "Wireless Access Point Installations",
