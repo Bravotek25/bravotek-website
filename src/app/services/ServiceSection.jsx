@@ -30,7 +30,7 @@ const servicesData = [
   {
     id: 3,
     title: "Wireless Access Point Installations",
-    image: "/assets/images/picture6.png",
+    image: "/assets/images/Picture6.png",
     list: [
       "Mount and position WAPs for optimal coverage.",
       "Configure SSIDs, VLANs, and security settings.",
@@ -96,7 +96,7 @@ const servicesData = [
   {
     id: 9,
     title: "IP Camera Installs",
-    image: "/assets/images/picture5.png",
+    image: "/assets/images/Picture5.png",
     list: [
       "Plan and execute office IT refresh or relocation.",
       "Upgrade networking equipment and servers.",
@@ -107,7 +107,7 @@ const servicesData = [
   {
     id: 10,
     title: "Digital Signage & Menu Boards",
-    image: "/assets/images/picture4.png",
+    image: "/assets/images/Picture4.png",
     list: [
       "Install displays for retail and service environments.",
       "Configure content management systems.",
